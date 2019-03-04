@@ -1,6 +1,4 @@
 # hello-world
 This is my first repository
 
-Hello there hoomans! # this is just me exploring this feature.
-
-3rd edit
+This is a new edit for the new branch branch
