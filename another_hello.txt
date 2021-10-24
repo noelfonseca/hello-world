@@ -9,8 +9,12 @@ git commit --amend --author="Noel Fonseca <njfonseca@gmail.com>" --no-edit
 now editing using noelfonsecairri account (not ammending to personal account)
 command used:
 
+<<<<<<< HEAD
 git commit -m "editing using noelfonsecairri"
 
 ------
 
 editing from IRRI's macbook pro
+=======
+git commit -m "editing using noelfonsecairri"
+>>>>>>> 3f12b41ca81b6b71562eab782d9fa6f3bce7f9e6
