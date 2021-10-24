@@ -3,3 +3,10 @@ Another version trying to ammend using Noel Fonseca as author
 command used:
 
 git commit --amend --author="Noel Fonseca <njfonseca@gmail.com>" --no-edit
+
+-------
+
+now editing using noelfonsecairri account (not ammending to personal account)
+command used:
+
+git commit -m "editing using noelfonsecairri"
