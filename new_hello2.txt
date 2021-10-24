@@ -1,1 +1,3 @@
 edit from irri macbook 1
+
+new edit while changing the git config --global user.name and user.email
