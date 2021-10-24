@@ -1,6 +1,5 @@
-hello world!
+Another version trying to ammend using Noel Fonseca as author
 
-adding new line!
+command used:
 
-----------
-trying to ammend using personal account "Noel Fonseca" instead of Noel Fonseca IRRI
+git commit --amend --author="Noel Fonseca <njfonseca@gmail.com>" --no-edit
